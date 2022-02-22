@@ -1,0 +1,14 @@
+{
+  "name": "rede",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "script.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4"
+  }
+}
